@@ -6,6 +6,7 @@ public class test {
 		System.out.println("22222");
 		System.out.println("1提交");
 		System.out.println("aaaaa");
+		System.out.println("1提交");
 		System.out.println("hhhhh");
 	}
 }
