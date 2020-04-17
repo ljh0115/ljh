@@ -8,5 +8,6 @@ public class test {
 		System.out.println("aaaaa");
 		System.out.println("1提交");
 		System.out.println("hhhhh");
+		System.out.println("添加微信扫码分支");
 	}
 }
